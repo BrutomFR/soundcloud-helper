@@ -36,7 +36,6 @@ It's your login token.
 
 **clientId**: it is present in all soundcloud requests in your browser.
 
-<br/>
 ![clientId image](https://i.imgur.com/ftOQcnm.png)
 
 
