@@ -24,27 +24,29 @@ const GetMusicsByArtistId = async (artistId, authorization, client_id) => {
 };
 ```
 
+___ 
+
 **artistId**: get artistId in source-code page of artist. Find the word "users:" and get id.
 
 ![artistId image](https://i.imgur.com/APDTOA7.png)
 
+___ 
 
 **authorization**: is OAuth, you need to login in in soundcloud account and get the token in requests header of your browser.
 It's your login token.
 
 ![authorization image](https://i.imgur.com/Q5ssshF.png)
 
+___ 
+
 **clientId**: it is present in all soundcloud requests in your browser.
 
 ![clientId image](https://i.imgur.com/ftOQcnm.png)
 
+___ 
 
-<br/>
-<br/>
 
 ## Results
-
-<br/>
 
 ![result image](https://i.imgur.com/nVtA2zi.png)
 
